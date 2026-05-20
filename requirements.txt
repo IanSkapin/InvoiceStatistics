@@ -2,5 +2,5 @@ heapq
 
 decimal
 mock==4.0.2
-pytest==5.4.3
+pytest==9.0.3
 timeit
